@@ -1,7 +1,6 @@
 # Markdown Test Suite
 
-This repository is test suite of Markdown which is based on the original code of
-the [karlcow/markdown-testsuite](https://github.com/karlcow/markdown-testsuite).
+This repository is test suite of Markdown which is originated from the [karlcow/markdown-testsuite](https://github.com/karlcow/markdown-testsuite).
 
 ## Goals
 
